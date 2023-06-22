@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783661517580",
+    "project_id": "todo-list-app-i2lah",
+    "storage_bucket": "todo-list-app-i2lah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783661517580:android:df2901b048c958224c9729",
+        "android_client_info": {
+          "package_name": "com.itulah.todo_listapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783661517580-uura075cndku56b36cvkh8nh09as01ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itulah.todo_listapps",
+            "certificate_hash": "62bd30fc470e43372fdb4ce85430107d54618d04"
+          }
+        },
+        {
+          "client_id": "783661517580-schaesq0p1filbfbjpi3pl7u6nf9il1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT82vxOdxYp9Bvl6ZLJ4IdtmxGryj-iP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783661517580-schaesq0p1filbfbjpi3pl7u6nf9il1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
